@@ -1,0 +1,19 @@
+REST API -> Http -> Get, Post, Patch, Delete.
+
+GET : http://localhost:9000/aliens
+GET : http://localhost:9000/aliens/<id>
+POST: http://localhost:9000/aliens
+PATCH : http://localhost:9000/aliens/<id>
+DELETE : http://localhost:9000/aliens/<id>
+
+Your project should have a good schema, UI, and routing concept.
+
+M = Model (Database)
+V = View Good UI
+C = Control routing  Routers
+
+RDBMS - MONGODB
+Database - Database
+Tables - Collections
+Rows - Documents
+Columns - Fields
